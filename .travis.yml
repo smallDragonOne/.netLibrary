@@ -1,3 +1,4 @@
 
 language: csharp
 solution: ./library/library.sln
+mono: none
