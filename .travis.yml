@@ -2,3 +2,4 @@
 language: csharp
 solution: ./library/library.sln
 mono: none
+os：window
